@@ -1,1 +1,44 @@
 /* You can add global styles to this file, and also import other style files */
+.heading-1 {
+    font-family: 'IBM Plex Sans';
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 63px; /* 150% */
+  }
+  
+  /* Heading 2 */
+  .heading-2 {
+    font-family: 'IBM Plex Sans';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 39px; /* 130% */
+  }
+  
+  /* Heading 3 */
+  .heading-3 {
+    font-family: 'IBM Plex Sans';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 31.2px; /* 130% */
+  }
+  
+  /* Heading 4 */
+  .heading-4 {
+    font-family: 'IBM Plex Sans';
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27.3px; /* 130% */
+  }
+  
+  /* Heading 5 */
+  .heading-5 {
+    font-family: 'IBM Plex Sans';
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28.5px; /* 150% */
+  }
