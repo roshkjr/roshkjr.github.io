@@ -1,0 +1,23 @@
+<div class="work-container">
+    <span class="heading-1"> What do I do</span>
+    <div class="work-box">
+        @for(work of data; track work){
+            <div class="content">
+                <div class="work-logo">
+                    <img src="{{ work.logo }}">
+                    <span class="heading-3"> {{work.header}}</span>
+                </div>
+                <div class="work-description">
+                    <span class="paragraph-3">{{work.description}}</span>
+                </div>
+                <div class="content__more">
+                    <span class="paragraph-2"> Learn more</span>
+                </div>
+        </div>
+        }
+    </div>
+
+
+
+
+</div>
