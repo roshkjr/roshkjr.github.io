@@ -28,7 +28,7 @@ export class ResumeComponent implements OnInit{
         'Building webcomponents and webpages to make small molecule data in the PDB easily accessible',
         'Developing tutorial and training materials to reach students and researchers'
       ],
-      logo: 'assets/EMBL_EBI_Logo_black.svg'
+      logo: 'assets/images/EMBL_EBI_Logo_black.svg'
     },
     {
       role: 'Researcher',
@@ -46,7 +46,7 @@ export class ResumeComponent implements OnInit{
         solutions
         `
       ],
-      logo:'assets/TCS-logo-black-CMYK.svg'
+      logo:'assets/images/TCS-logo-black-CMYK.svg'
     }
   ]
   }

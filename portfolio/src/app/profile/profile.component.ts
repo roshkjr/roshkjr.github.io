@@ -21,7 +21,7 @@ export class ProfileComponent implements OnInit{
                      From fundamentals to various applciation of
                      latest tools and algorithms in cheminformatics.
                      `,
-        logo:'assets/cheminformatics.svg'
+        logo:'assets/images/cheminformatics.svg'
       },
       {
         header: 'Machine Learning',
@@ -32,7 +32,7 @@ export class ProfileComponent implements OnInit{
       },
       {
         header: 'Investing',
-        logo: 'assets/investing.svg',
+        logo: 'assets/images/investing.svg',
         description: `Discusses data-driven approaches for valuing companies
                       and investing in stocks. Only for educational purpose,
                       not an investment advice`
