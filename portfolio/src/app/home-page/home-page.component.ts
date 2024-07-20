@@ -1,14 +1,30 @@
-import { Component, CUSTOM_ELEMENTS_SCHEMA} from '@angular/core';
+import { Component, OnInit} from '@angular/core';
 import { HeaderComponent } from '../header/header.component';
+import { MarkdownModule } from 'ngx-markdown';
+import { ArticleItemComponent } from '../article-item/article-item.component';
+import { ArticleItem } from '../article-item/article-item.model';
 
 
 @Component({
   selector: 'app-home-page',
   standalone: true,
-  imports: [HeaderComponent],
+  imports: [HeaderComponent, ArticleItemComponent, MarkdownModule],
   templateUrl: './home-page.component.html',
   styleUrl: './home-page.component.css',
-  schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
-export class HomePageComponent{
+export class HomePageComponent implements OnInit{
+  articleItems?: ArticleItem[];
+  
+  ngOnInit(){
+    this.articleItems = [
+      {
+        title: "adada",
+        img: "assets/angular.svg",
+        caption: "asdadafafsdfsdf",
+        date: "20 Jul, 2024",
+        tags: ["Angular", "Web"]
+      }
+    ]
+
+  }
 }
