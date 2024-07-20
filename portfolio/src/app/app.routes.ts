@@ -4,7 +4,7 @@ import { ProfileComponent } from './profile/profile.component';
 import { ResumeComponent } from './resume/resume.component';
 
 export const routes: Routes = [
-    {path:'home', component: HomePageComponent},
+    {path:'', component: HomePageComponent},
     {path:'profile', component: ProfileComponent},
     {path:'resume', component: ResumeComponent}
 ];
