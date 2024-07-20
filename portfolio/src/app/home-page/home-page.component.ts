@@ -19,7 +19,7 @@ export class HomePageComponent implements OnInit{
     this.articleItems = [
       {
         title: "adada",
-        img: "assets/angular.svg",
+        img: "assets/images/angular.svg",
         caption: "asdadafafsdfsdf",
         date: "20 Jul, 2024",
         tags: ["Angular", "Web"]
