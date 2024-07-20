@@ -21,18 +21,18 @@ export class ProfileComponent implements OnInit{
                      From fundamentals to various applciation of
                      latest tools and algorithms in cheminformatics.
                      `,
-        logo:'assets/images/cheminformatics.svg'
+        logo:'../../assets/images/cheminformatics.svg'
       },
       {
         header: 'Machine Learning',
-        logo:'assets/machine-learning.svg',
+        logo:'../../assets/machine-learning.svg',
         description: `Discover tutorials on how to use latest ML algorithms
                       in drug discovery and development. Covers QSAR, binding
                       affinity prediction, toxicity prediction and many more`
       },
       {
         header: 'Investing',
-        logo: 'assets/images/investing.svg',
+        logo: '../../assets/images/investing.svg',
         description: `Discusses data-driven approaches for valuing companies
                       and investing in stocks. Only for educational purpose,
                       not an investment advice`
