@@ -1,0 +1,46 @@
+<app-header></app-header>
+<div id="profile-container">
+    <div class="profile">
+        <div id="avatar"></div>
+        <span class="heading-3">Ibrahim Roshan</span>
+        <div class="tags">
+            <span class="paragraph-2">Cheminformatics</span>
+            <span class="paragraph-2">Drug Discovery, ML </span>
+        </div>
+        <div class="social-media">
+            <div class="icon">
+                <i class="fa-solid fa-xl fa-building"></i><a class="paragraph-3" href="https://www.ebi.ac.uk/" target="_blank">European Bioinformatics Institute</a>
+            </div>
+            <div class="icon">
+                <i class="fa-solid fa-xl fa-location-dot"></i><span class="paragraph-3"> Cambridge, UK</span>
+            </div>
+            <div class="icon">
+                <i class="fa-brands fa-xl fa-linkedin" style="color:#0072b1"></i>
+                <a class="paragraph-3"href="https://www.linkedin.com/in/ibrahim-roshan/" target="_blank">in/ibrahim-roshan</a>
+            </div>
+            <div class="icon">
+                <i class="fa-brands fa-xl fa-github"></i><a class="paragraph-3"href="https://github.com/roshkjr" target="_blank">roshkjr</a>
+            </div>
+        </div>
+        <div class="tech">
+            <span class="heading-2"> Tech Stack</span>
+            <div class="tech__icons">
+                <img src="assets/images/python.svg">
+                <img src="assets/images/sql-database-generic.svg">
+                <img src="assets/images/angular.svg">
+                <img src="assets/images/typescript.svg">
+            </div>
+        </div>
+    </div>
+    <div class="profile-description">
+        <span class="heading-1"> Hi </span>
+        <span class="paragraph-2">I'm a cheminformatician currently working at the <a target="_blank" href="https://www.ebi.ac.uk/pdbe/">
+            Protein Data Bank Europe (PDBe)</a> where I develop and maintain tools and services related to small molecules in the PDB. 
+            I am committed to improve the quality of small molecule data in the PDB and develop tools and methods to advance basic and
+            applied research. I am also interested in the application of data science for life science research, especially in Drug Discovery & 
+            Development. 
+        </span>
+        <app-works [data]="works"></app-works>
+    </div>
+</div>
+

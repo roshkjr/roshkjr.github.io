@@ -1,0 +1,101 @@
+#profile-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+    gap: 30px;
+}
+
+.profile-description{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 900px;
+}
+
+.tags{
+    display: flex;
+    flex-direction: column;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5px;
+    gap: 8px;
+}
+
+.tech {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.tech__icons{
+    display: flex;
+    flex-direction: row;
+    row-gap: 10px;
+    flex:1;
+    width: 80%;
+    margin-left: -10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.tech__icons img{
+    width: 55px;
+    height: 55px;
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items:center;
+    justify-content: left;
+}
+#avatar{
+  background: url('../../assets/images/Roshan.png');
+  background-size: cover;
+  background-color: black;
+  width: 130px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit:cover;
+}
+
+.fa-brands{
+    padding-top: 10px;
+}
+
+.experience{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+  }
+
+a:hover {
+    text-decoration: underline;
+    color: #0969da;
+}
+a:active {
+    text-decoration: underline;
+  }

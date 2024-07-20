@@ -1,0 +1,12 @@
+<app-header></app-header>
+<div class="banner">
+  <div class="banner__content">
+    <span class="heading-1"> Insights and Resources to Help You Get Started 
+    In Computational Biology & Chemistry</span>
+  </div>
+</div>
+<div class="home-container">
+  @for(item of articleItems; track item){
+    <app-article-item [data]="item"></app-article-item>
+  }
+</div>
