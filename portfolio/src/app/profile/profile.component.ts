@@ -25,7 +25,7 @@ export class ProfileComponent implements OnInit{
       },
       {
         header: 'Machine Learning',
-        logo:'../../assets/machine-learning.svg',
+        logo:'../../assets/images/machine-learning.svg',
         description: `Discover tutorials on how to use latest ML algorithms
                       in drug discovery and development. Covers QSAR, binding
                       affinity prediction, toxicity prediction and many more`
