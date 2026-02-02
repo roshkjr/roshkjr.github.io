@@ -1,0 +1,64 @@
+---
+title: "Projects"
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+::: {.project-card}
+::: {.project-image}
+![](images/pdbe_kb_ligands.png)
+:::
+
+**PDBe-KB Ligands**
+
+An interactive webpage to explore the structures of ligands in the PDB including their substructures and fragments, physicochemcial properties, and interactions with proteins.
+
+[Learn more](https://pdbe.org/chem/STI){.link}
+:::
+:::
+
+::: {.g-col-4}
+::: {.project-card}
+::: {.project-image}
+![](images/arpeggio_logo.png)
+:::
+
+**PDBe Arpeggio**
+
+A Python package for calculating interatomic interactions in biomacromolecules. Supports 15 interaction subtypes and works with protein-ligand, protein-protein, and nucleic acid interactions.
+
+[Code](https://github.com/PDBeurope/arpeggio){.link}
+:::
+:::
+
+::: {.g-col-4}
+::: {.project-card}
+::: {.project-image}
+![](images/ccdutils_component.png)
+:::
+
+**PDBe CCDUtils**
+
+An open-source Python toolkit for processing small molecule data in the PDB. Parses CIF files and converts them to RDKit mol objects for easy analysis.
+
+[Code](https://github.com/PDBeurope/ccdutils){.link}
+[Paper](https://link.springer.com/article/10.1186/s13321-023-00786-w){.link}
+:::
+:::
+
+::: {.g-col-4}
+::: {.project-card}
+::: {.project-image}
+![Image placeholder](images/placeholder.png)
+:::
+
+**PDBe RelLig**
+
+Automatically annotates the biological role of ligands in the PDB. Distinguishes between biologically relevant molecules and those present for experimental purposes.
+
+[Code](https://github.com/PDBeurope/rellig){.link}
+:::
+:::
+
+:::
