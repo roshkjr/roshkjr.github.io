@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  navbar:
+    logo: images/roshan_logo_2.png
+    background: "#0a1121"
+    right:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - publications.qmd
+      - talks.qmd
+      - blogs.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

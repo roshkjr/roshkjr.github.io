@@ -1,0 +1,104 @@
+---
+title: "Ibrahim Roshan"
+image: images/roshan_profile.png
+about:
+  template: marquee
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ibrahim-roshan/
+    - icon: github
+      text: Github
+      href: https://github.com/roshkjr
+---
+
+```{python}
+#| echo: false
+import datetime
+years_experience = datetime.date.today().year - 2017
+```
+
+# Hi {.unlisted}
+
+I am a structural bioinformatician with **`{python} years_experience`** years of experience bridging computational biology, data science, and machine learning to solve complex biological problems. My expertise spans structural biology, cheminformatics, and AI-driven drug discovery. I develop computational models to understand protein-ligand interactions, identify therapeutic targets, and accelerate the discovery of novel drugs. 
+
+
+# Skills
+
+::: {.grid}
+::: {.g-col-6}
+**Computational Biology**
+
+- Docking
+- MD Simulations
+- Co-folding
+- Molecular interactions
+:::
+
+::: {.g-col-6}
+**Data Science & ML**
+
+- Data Analysis
+- QSAR Modeling
+- Graph Neural Networks
+- Transformers
+:::
+:::
+
+# Tech Stack
+
+![](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,oracle,angular,neo4j,sqlalchemy,typescript,git,html)
+
+# Bioinformatics Tools
+
+![](images/rdkit_logo.png){width=10%}
+![](images/molstar-logo.png){width=15%}
+
+# ML Stack
+
+![](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,matplotlib,pandas,) ![](images/pyg_logo.png){width=5% height=5%}
+
+# Experience
+
+::: {.grid}
+::: {.g-col-12}
+::: {.experience-item}
+**Bioinformatician**
+
+EMBL-EBI
+
+Sep 2022 - Present
+:::
+:::
+
+::: {.g-col-12}
+::: {.experience-item}
+**Researcher**
+
+Tata Consultancy Services
+
+Aug 2017 - Oct 2022
+:::
+:::
+:::
+
+
+
+# Education
+
+::: {.grid}
+::: {.g-col-12}
+::: {.education-item}
+**Master of Technology**
+
+Indian Institute of Technology
+
+2012 - 2017
+:::
+:::
+:::
+
+
+
