@@ -5,6 +5,13 @@ project:
 
 website:
   favicon: images/roshan_logo_2.png
+  site-url: https://roshkjr.github.io
+  twitter-card: true
+  cookie-consent: true
+  google-analytics:
+    tracking-id: G-V3RM2PXBNZ
+    anonymize-ip: true
+  open-graph: true
   navbar:
     logo: images/roshan_logo_2.png
     background: "#0a1121"
