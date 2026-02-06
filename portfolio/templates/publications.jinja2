@@ -1,0 +1,37 @@
+---
+title: Publications
+---
+
+## Peer-Reviewed
+
+{% for pub in peer_reviewed %}
+::: {.publication-item}
+
+**{{ loop.index }}. {{ pub.title }}**
+
+{% if pub.journal %}_{{ pub.journal }}_
+
+{% endif %}{% if pub.authors %}{{ pub.authors }}
+
+{% endif %}{{ pub.year }}{% if pub.doi %} | [DOI: {{ pub.doi }}](https://doi.org/{{ pub.doi }}){% endif %}{% if pub.citations %} | Cited by {{ pub.citations }}{% endif %}
+
+:::
+
+{% endfor %}
+
+## Preprints
+
+{% for pub in preprints %}
+::: {.publication-item}
+
+**{{ loop.index }}. {{ pub.title }}**
+
+{% if pub.journal %}_{{ pub.journal }}_
+
+{% endif %}{% if pub.authors %}{{ pub.authors }}
+
+{% endif %}{{ pub.year }}{% if pub.doi %} | [DOI: {{ pub.doi }}](https://doi.org/{{ pub.doi }}){% endif %}{% if pub.citations %} | Cited by {{ pub.citations }}{% endif %}
+
+:::
+
+{% endfor %}

@@ -1,5 +1,88 @@
 ---
-title: "Publications"
+title: Publications
 ---
 
-About this site 
+## Peer-Reviewed
+
+
+::: {.publication-item}
+
+**1. PDBe: enhanced structural data exploration to facilitate discovery.**
+
+_Nucleic Acids Res_
+
+Querino Lima Afonso M, Pidruchna I, Nair S, Midlik A, Lawal D et al.
+
+2026 | [DOI: 10.1093/nar/gkaf1120](https://doi.org/10.1093/nar/gkaf1120) | Cited by 1
+
+:::
+
+
+::: {.publication-item}
+
+**2. PDBe tools for an in-depth analysis of small molecules in the Protein Data Bank.**
+
+_Protein Sci_
+
+Choudhary P, Kunnakkattu IR, Nair S, Lawal DK, Pidruchna I et al.
+
+2025 | [DOI: 10.1002/pro.70084](https://doi.org/10.1002/pro.70084) | Cited by 7
+
+:::
+
+
+::: {.publication-item}
+
+**3. PDBe CCDUtils: an RDKit-based toolkit for handling and analysing small molecules in the Protein Data Bank.**
+
+_J Cheminform_
+
+Kunnakkattu IR, Choudhary P, Pravda L, Nadzirin N, Smart OS et al.
+
+2023 | [DOI: 10.1186/s13321-023-00786-w](https://doi.org/10.1186/s13321-023-00786-w) | Cited by 10
+
+:::
+
+
+::: {.publication-item}
+
+**4. Literature-based drug-drug similarity for drug repurposing: impact of Medical Subject Headings term refinement and hierarchical clustering.**
+
+_Future Med Chem_
+
+Das SS, Ranjan P, Kunnakkattu IR.
+
+2022 | [DOI: 10.4155/fmc-2022-0074](https://doi.org/10.4155/fmc-2022-0074) | Cited by 2
+
+:::
+
+
+
+## Preprints
+
+
+::: {.publication-item}
+
+**1. PDBe tools for an in-depth analysis of small molecules in the Protein Data Bank**
+
+_bioRxiv_
+
+Choudhary P, Kunnakkattu IR, Nair S, Lawal DK, Pidruchna I et al.
+
+2024 | [DOI: 10.1101/2024.11.05.622044](https://doi.org/10.1101/2024.11.05.622044)
+
+:::
+
+
+::: {.publication-item}
+
+**2. PDBe CCDUtils: an RDKit-based toolkit for handling and analysing small molecules in the Protein Data Bank**
+
+_bioRxiv_
+
+Kunnakkattu IR, Choudhary P, Pravda L, Nadzirin N, Smart OS et al.
+
+2023 | [DOI: 10.1101/2023.08.04.552003](https://doi.org/10.1101/2023.08.04.552003)
+
+:::
+

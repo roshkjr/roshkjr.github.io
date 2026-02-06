@@ -1,7 +1,11 @@
 project:
   type: website
+  pre-render:
+    - ./scripts/fetch_publications.py
 
 website:
+  title: Ibrahim Roshan
+  favicon: images/roshan_logo_2.png
   navbar:
     logo: images/roshan_logo_2.png
     background: "#0a1121"
