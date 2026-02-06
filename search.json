@@ -25,6 +25,20 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "1. PDBe: enhanced structural data exploration to facilitate discovery.\nNucleic Acids Res\nQuerino Lima Afonso M, Pidruchna I, Nair S, Midlik A, Lawal D et al.\n2026 | DOI: 10.1093/nar/gkaf1120 | Cited by 1\n\n\n2. PDBe tools for an in-depth analysis of small molecules in the Protein Data Bank.\nProtein Sci\nChoudhary P, Kunnakkattu IR, Nair S, Lawal DK, Pidruchna I et al.\n2025 | DOI: 10.1002/pro.70084 | Cited by 7\n\n\n3. PDBe CCDUtils: an RDKit-based toolkit for handling and analysing small molecules in the Protein Data Bank.\nJ Cheminform\nKunnakkattu IR, Choudhary P, Pravda L, Nadzirin N, Smart OS et al.\n2023 | DOI: 10.1186/s13321-023-00786-w | Cited by 10\n\n\n4. Literature-based drug-drug similarity for drug repurposing: impact of Medical Subject Headings term refinement and hierarchical clustering.\nFuture Med Chem\nDas SS, Ranjan P, Kunnakkattu IR.\n2022 | DOI: 10.4155/fmc-2022-0074 | Cited by 2"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "1. PDBe: enhanced structural data exploration to facilitate discovery.\nNucleic Acids Res\nQuerino Lima Afonso M, Pidruchna I, Nair S, Midlik A, Lawal D et al.\n2026 | DOI: 10.1093/nar/gkaf1120 | Cited by 1\n\n\n2. PDBe tools for an in-depth analysis of small molecules in the Protein Data Bank.\nProtein Sci\nChoudhary P, Kunnakkattu IR, Nair S, Lawal DK, Pidruchna I et al.\n2025 | DOI: 10.1002/pro.70084 | Cited by 7\n\n\n3. PDBe CCDUtils: an RDKit-based toolkit for handling and analysing small molecules in the Protein Data Bank.\nJ Cheminform\nKunnakkattu IR, Choudhary P, Pravda L, Nadzirin N, Smart OS et al.\n2023 | DOI: 10.1186/s13321-023-00786-w | Cited by 10\n\n\n4. Literature-based drug-drug similarity for drug repurposing: impact of Medical Subject Headings term refinement and hierarchical clustering.\nFuture Med Chem\nDas SS, Ranjan P, Kunnakkattu IR.\n2022 | DOI: 10.4155/fmc-2022-0074 | Cited by 2"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\n1. PDBe tools for an in-depth analysis of small molecules in the Protein Data Bank\nbioRxiv\nChoudhary P, Kunnakkattu IR, Nair S, Lawal DK, Pidruchna I et al.\n2024 | DOI: 10.1101/2024.11.05.622044\n\n\n2. PDBe CCDUtils: an RDKit-based toolkit for handling and analysing small molecules in the Protein Data Bank\nbioRxiv\nKunnakkattu IR, Choudhary P, Pravda L, Nadzirin N, Smart OS et al.\n2023 | DOI: 10.1101/2023.08.04.552003"
   }
 ]
